@@ -592,23 +592,7 @@ in the Software without restriction...
 
 ---
 
-## 📞 Support & Contact
 
-### 🆘 Getting Help
-
-- **📖 Documentation**: Check our comprehensive docs
-- **🐛 Issues**: Report bugs on GitHub Issues
-- **💬 Discussions**: Join community discussions
-- **📧 Email**: team.alpha@example.com
-
-### 🌐 Links
-
-- **🏠 Homepage**: https://teamalpha.github.io/resume-matching-system
-- **📚 Documentation**: https://docs.teamalpha.com/resume-matcher
-- **🐛 Bug Reports**: https://github.com/TeamAlpha/resume-matching-system/issues
-- **💡 Feature Requests**: https://github.com/TeamAlpha/resume-matching-system/discussions
-
----
 
 ## 🎉 Acknowledgments
 
