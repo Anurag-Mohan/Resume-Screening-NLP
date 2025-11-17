@@ -84,7 +84,7 @@ Our system achieves exceptional performance across multiple job categories:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Anurag-mohan/Resume-Screening-NLPgit
+   git clone https://github.com/Anurag-mohan/Resume-Screening-NLP.git
    cd Resume_Screening-NLP
    ```
 
