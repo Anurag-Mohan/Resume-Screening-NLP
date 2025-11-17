@@ -193,7 +193,7 @@ resume-matching-system/
 ├── 📋 requirements.txt          # Python dependencies
 ├── 📁 data/                     # Input/output directories
 ├── 📁 outputs/                  # Generated models and vectors
-└── 📖 README.md                 # This file
+
 ```
 
 ---
